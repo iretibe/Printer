@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzVaTqby+E7ASRm43glJtNV5WD9iP9ip2lOBDN8DPCX8y+uKluWI2AEn0ctdY464pkjvchkU7QhA7eVApcCTuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\Printer\\Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\neodynamic.sdk.webclientprint\\6.0.0\\neodynamic.sdk.webclientprint.6.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.text.encoding.codepages\\4.6.0\\system.text.encoding.codepages.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
